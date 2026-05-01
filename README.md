@@ -22,7 +22,7 @@
 
 > **Dashboard is live! Click below to open:**
 >
-> ### 👉 [**Open Dashboard → http://127.0.0.1:8050**](http://127.0.0.1:8050)
+> 
 
 ---
 
@@ -154,7 +154,6 @@ python dashboard.py
 
 ### 4️⃣ Open in Browser
 
-> ### 👉 [**http://127.0.0.1:8050**](http://127.0.0.1:8050)
 
 ---
 
